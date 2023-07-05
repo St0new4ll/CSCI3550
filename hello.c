@@ -12,7 +12,7 @@
 int main( void )  {
 
 	/* Personalized hello. */
-	printf( "Hello, World, from John/Jane Doe!\n" );
+	printf( "Hello, World, from Nathan Stone\n" );
 
 	/* Proper way to finish a program in a POSIX-system. */
 	exit( EXIT_SUCCESS );
