@@ -1,3 +1,9 @@
+/*
+ * Auth: Nathan Stone
+ * Date: 7-6-23  (Due: 7-9-23)
+ * Course: CSCI-3550 (Sec: 850)
+ * Desc:  PREPROJECT-02, Take in CLI arguments, format and print them
+ */
 #include<stdio.h>
 
 int main( int argc, char *argv[] ) {
